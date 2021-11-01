@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'sansumi-regular';
-    src: url('/asset/font/Sansumi-Bold-webfont.woff') format('woff');
+    src: url('asset/font/Sansumi-Bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'sansumi-extrabold';
-    src: url('/asset/font/Sansumi-ExtraBold-webfont.woff') format('woff');
+    src: url('asset/font/Sansumi-ExtraBold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
